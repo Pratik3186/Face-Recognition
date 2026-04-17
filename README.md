@@ -1,6 +1,6 @@
 # 🎭 Face Recognition Login System
 
-A desktop-based Face Recognition Authentication System built using Python. This application allows users to log in using their face via webcam and supports registering new users dynamically.
+A desktop-based Face Recognition Authentication System built using Python. This application allows users to log in using their face via webcam and supports registering new users dynamically. 
 
 ---
 
@@ -42,8 +42,8 @@ project/
 
 ---
 
-## ⚙️ Installation & Setup
-
+## ⚙️ Installation & Setup guide
+  
 ### 1️⃣ Clone Repository
 
 ```bash
